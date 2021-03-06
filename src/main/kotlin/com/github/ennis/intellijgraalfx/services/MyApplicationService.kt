@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ennis.intellijgraalfx.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ennis.intellijgraalfx.MyBundle
 
 class MyApplicationService {
 
